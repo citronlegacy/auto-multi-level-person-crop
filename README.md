@@ -5,7 +5,7 @@ This Python script uses pre-trained YOLO models from Hugging Face to automatical
 - Half Body (torso)
 - Head (face)
 
-It processes entire folders of images and saves the cropped results in a structured output directory.
+It processes entire folders of images and saves the cropped results in an output directory.
 
 ---
 
@@ -22,7 +22,7 @@ It processes entire folders of images and saves the cropped results in a structu
 
 ---
 
-## 🖼 Example Output
+## 🖼 Example Input & Output
 
 Below is an example showing the three levels of anime person cropping:
 

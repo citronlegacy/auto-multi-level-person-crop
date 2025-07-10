@@ -22,6 +22,14 @@ It processes entire folders of images and saves the cropped results in a structu
 
 ---
 
+## 🖼 Example Output
+
+Below is an example showing the three levels of anime person cropping:
+
+![Example Crops](Example.png)
+
+---
+
 ## Requirements
 
 - Python 3.8+

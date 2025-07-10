@@ -1,0 +1,7 @@
+pillow
+opencv-python
+numpy
+scikit-image
+ultralytics
+huggingface_hub
+tqdm
